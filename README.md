@@ -1,7 +1,7 @@
-# My Project
+# Project
 
-Click the badge to open the notebook in Google Colab:
+Click below to open the notebook in Google Colab:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/barteg/test1/blob/PROJ-11-Closing-doors-module/closingDoorsModule.ipynb.ipynb
+https://colab.research.google.com/github/barteg/test1/blob/PROJ-11-Closing-doors-module/closingDoorsModule.ipynb
 )
